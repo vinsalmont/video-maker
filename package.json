@@ -1,0 +1,19 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Code made by following  Filipe Deschamps Youtube's tutorial about making a bot to create/upload Youtube Videos using IBM Watson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinsalmont/video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinsalmont/video-maker/issues"
+  },
+  "homepage": "https://github.com/vinsalmont/video-maker#readme"
+}
